@@ -32,7 +32,7 @@ jobs:
           echo test, and deploy your project.
           
       - name: update forked 84000-tm repo with TMX view
-        run: echo update forked 84000-tm repo with TMX view
+        run: "echo update forked 84000-tm repo with TMX view"
         
       - name: sent PR to 84000-tm repo trom the fork
-        run: sent PR to 84000-tm repo trom the fork
+        run: "sent PR to 84000-tm repo trom the fork"
