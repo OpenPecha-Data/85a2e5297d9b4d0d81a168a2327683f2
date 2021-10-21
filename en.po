@@ -1,0 +1,810 @@
+#
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "b34a4e3e30ec475aaa3d4782607d4f38"
+msgstr "Homage to all buddhas and bodhisattvas."
+
+msgid "f3bd464548ee46ef998ca98cf9f040c4"
+msgstr "Thus did I hear at one time."
+
+msgid "ec5d2fa519e842789187e2dfbbbb2753"
+msgstr ""
+"When the Bhagavān was traveling in the land of Vṛji, he went to the great "
+"city of Vaiśālī, together with a large saṅgha of one thousand two hundred "
+"and fifty bhikṣus and a vast number of bodhisattva mahāsattvas."
+
+msgid "efe4abf2c39e4c41a2e788b0c0b5c75a"
+msgstr ""
+"At that time, he came across an old woman from the city gathering grass in "
+"the countryside. She was decrepit and had reached the end of her life-span, "
+"being one hundred and twenty years old."
+
+msgid "745a492af4a144359c184af3459a2605"
+msgstr ""
+"The woman saw the Bhagavān coming from afar—handsome, inspiring, with senses"
+" tamed, mind tamed, endowed with supreme discipline and serenity, guarded, "
+"faultless, senses controlled, pure and clear like the sea, unclouded, "
+"upright like a golden sacrificial post, radiant with splendor clear and "
+"distinct, wonderfully adorned with the thirty-two signs of a great being."
+
+msgid "f791db0af2cb48d995e72b957c31580a"
+msgstr ""
+"bowed her head at his feet, circumambulated the Bhagavān three times and sat"
+" to one side. Bowing with her palms together in the direction of the "
+"Bhagavān, the woman then asked him"
+
+msgid "15cc16f8b324409a81c845f99c3c7d5a"
+msgstr "O Bhagavān, where does birth come from?"
+
+msgid "5f4cbf035ed84c799d1aa7633da95cc8"
+msgstr "Where does aging come from?"
+
+msgid "b60098a17f6640eca9f184b0c96eae3d"
+msgstr "Where do they go?"
+
+msgid "53f1c8e84a254796b916c3e47cad3594"
+msgstr "O Bhagavān, where does sickness come from?"
+
+msgid "9f5daba531da4ca28513268622683e2d"
+msgstr "Where does death come from?"
+
+msgid "b7cb014a08f94e2c91137cb941b9bc0c"
+msgstr "O Bhagavān, where does form come from?"
+
+msgid "18d74e01dcc74f6fa7cb1062bee64910"
+msgstr ""
+"Where do sensation, notions, formative factors and consciousness come from?"
+
+msgid "13f2c147477148a0853490a5a54e3d6a"
+msgstr "O Bhagavān, where does the earth element come from?"
+
+msgid "9b3b12cce3b44e8cae13cbc16ad13985"
+msgstr ""
+"Where do the water element, the fire element, the wind element, the space "
+"element and the element of consciousness come from?"
+
+msgid "b1599a84931c4411a26a8642ddc7e6d8"
+msgstr "O Bhagavān, where does the eye come from?"
+
+msgid "f0a34253a2bc4a628854531298a9af1d"
+msgstr ""
+"Where do the ear, the nose, the tongue, the body and the mind come from?"
+
+msgid "337b75ecf1b04cfcb860b366ac01959b"
+msgstr "The Bhagavān replied"
+
+msgid "3bea8e08d6bd4aecb1dda7db23862257"
+msgstr "Sister, birth does not come from anywhere."
+
+msgid "31a786cf057a46a6976f120061cb1629"
+msgstr "Aging does not come from anywhere."
+
+msgid "f5eefc9eed554f09990f96a83fdb3690"
+msgstr "They do not go anywhere."
+
+msgid "8c5f3e323749401ea3213c0ffb1416df"
+msgstr "Sister, sickness does not come from anywhere."
+
+msgid "cf03a8cb916c474f924edecfdba5f60f"
+msgstr "Death does not come from anywhere."
+
+msgid "ff9778a63e274b84b2896645ba43b86f"
+msgstr "Sister, form does not come from anywhere"
+
+msgid "43e1c1e17fe944c5b1dd25dd8a8818a2"
+msgstr ""
+"Sensation, notions, formative factors and consciousness do not come from "
+"anywhere."
+
+msgid "909c66e9be40417dbe54a04f86d7af38"
+msgstr "Sister, the earth element does not come from anywhere."
+
+msgid "d179804e29c44339818eff3118f5ced5"
+msgstr ""
+"The water element, the fire element, the wind element, the space element and"
+" the element of consciousness do not come from anywhere."
+
+msgid "c2c37702224842ae85c39e05c2553e42"
+msgstr "Sister, the eye does not come from anywhere."
+
+msgid "a620bff33590466daaecd4ad2c4c1318"
+msgstr ""
+"The ear, the nose, the tongue, the body and the mind do not come from "
+"anywhere."
+
+msgid "08a404b13ebb4fb49a156b8a36e84adf"
+msgstr "Sister, it is as follows:"
+
+msgid "075040dc66904eaba85988d68b5f810a"
+msgstr ""
+"as an analogy, a fire arises based on a stick to rub with, a stick to rub "
+"on, and and also a person’s effort to generate it."
+
+msgid "4594d6591c034d3791de77d62938b83b"
+msgstr ""
+"That fire, moreover, once it has burnt the grass and wood, will have no more"
+" causes and will die."
+
+msgid "941f103f0f5a48d9b5abce598df76f02"
+msgstr "Sister, where do you think the fire comes from"
+
+msgid "6dfec7c7391044918615d038d025c500"
+msgstr "where does it go?"
+
+msgid "36df9f2f9bd748509f69392fa8f31d68"
+msgstr "She answered"
+
+msgid "1a6598eff9fa4511ac5f766a86094975"
+msgstr ""
+"O Bhagavān, that fire comes into being owing to the power of a collection of"
+" causes."
+
+msgid "c7c9a7ee70f2446f96f972f535f04ea3"
+msgstr "It ceases and dies when it lacks the collection of causes."
+
+msgid "9eccea4d0b944e7089a204e121af8ccd"
+msgstr "The Bhagavān said"
+
+msgid "5ae7eb6e76754bd5bc44cac3a1193a32"
+msgstr ""
+"Sister, likewise, all phenomena come into being owing to the power of a "
+"collection."
+
+msgid "ef9bef8dd626453180a2af9bd8920ff6"
+msgstr ""
+"Sister, likewise, all phenomena come into being owing to the power of a "
+"collection."
+
+msgid "1377c25ffaee4bb6a77dae65d683762c"
+msgstr "They cease and die when they lack the collection."
+
+msgid "cd5e87467138468da2960268167a7f14"
+msgstr ""
+"Whatever the phenomena, they do not come from anywhere, nor do they go "
+"anywhere."
+
+msgid "003b1bc35da94b57839ce317fca6d666"
+msgstr "Sister, it is as follows"
+
+msgid "16c1452b422a4d418d6d8010d57f3ad8"
+msgstr "although the eye consciousness arises based upon the eye and form"
+
+msgid "987208a385ca4e79a6d8fd2208784eb0"
+msgstr "the eye consciousness does not have a producer"
+
+msgid "825d8bce3d4f48988111b43b2d0d8a7c"
+msgstr "nor has it anything that makes it cease."
+
+msgid "8ede4316ddac4765a468e09da07cfa2b"
+msgstr "Nowhere is it brought together at all."
+
+msgid "1728b698aa9f4a8cb0c461d226132861"
+msgstr "The aggregates do not come from anywhere"
+
+msgid "fa4b3102474748b6a21577e5a3ada55b"
+msgstr "nor do they go anywhere"
+
+msgid "4d331e45c2744ab98002c0610d68bb66"
+msgstr ""
+"When one has accumulated karma through the conditions of the consciousnesses"
+
+msgid "42a7c0b6312644cd937e7cdcc005e571"
+msgstr "the fruits manifest as the results of three types in the three realms"
+
+msgid "e78b2343823c453780645ec5ce19bb43"
+msgstr "That fruit is empty too"
+
+msgid "c186f7683c534deda24e6ad2aebbff58"
+msgstr "It has no going."
+
+msgid "1b0e0ab1234a478c9b1eefe25045875d"
+msgstr "It has no coming."
+
+msgid "f6b55f2cabca4315a1192bcad4427e2d"
+msgstr "No one makes it arise."
+
+msgid "fde5b96f80824b7b820a4353987f28e1"
+msgstr "It is not stopped by anybody."
+
+msgid "6cc30f673f9447d99a00af11b73e2cd0"
+msgstr "Sister, all phenomena are inherently stopped."
+
+msgid "1b171132fa9e4cb194d44bd1ac1b439b"
+msgstr ""
+"Likewise, although the mental consciousness arises based upon the ear and "
+"sound, the nose and smell, the tongue and taste, the body and touch, and the"
+" mind and phenomena, the mental consciousness does not have a producer"
+
+msgid "fabc45dd586147fc8e04e22c80e7231e"
+msgstr ""
+"When one has accumulated karma through the condition of mental "
+"consciousness, the fruits manifest as the results of three types in the "
+"three realms."
+
+msgid "bcc0bea541ce4262a2448a4d59b3fa24"
+msgstr ""
+"That fruit is empty too. It has no coming. It has no going. No one makes it "
+"arise. It is not stopped by anybody."
+
+msgid "8032128f72f24c329772f6ca0a2125e9"
+msgstr "Sister, it is as follows"
+
+msgid "958fa25b3787483782e5240acf11d651"
+msgstr "nor does it dwell in the stick"
+
+msgid "73cbfec7375843c2b7a724df7e36c5cc"
+msgstr "neither does it dwell in the hide"
+
+msgid "a11b69c212594d4da3f385fd1b0be945"
+msgstr "The sound does not dwell in the wood"
+
+msgid "612535f0fe7440d6a0b60feb514a15e0"
+msgstr ""
+"sound of a drum arises based on wood, hide and a stick, and also on a "
+"person’s effort to make it arise."
+
+msgid "387e9ef9b4d34fc39612a3f74fc6857c"
+msgstr ""
+"The past sound of that drum was empty, the future sound will be empty and "
+"the sound that arises at present is empty"
+
+msgid "6b42c930c0a94159924a5d39e1a925be"
+msgstr "nor does it dwell in the person’s hand."
+
+msgid "4fa179439397496fb8e4c8931d04d24f"
+msgstr "However, because of these conditions, it is termed sound."
+
+msgid "94694fc8fa8e44abbd1b0a180fa67cd2"
+msgstr "That which is termed sound is also empty."
+
+msgid "eaf2a437090f48e285142a5a7f93d6a3"
+msgstr "It has no coming."
+
+msgid "2d18a4a0f3f24358bb8e767f415593b7"
+msgstr "Sister, likewise, all phenomena depend solely on conditions"
+
+msgid "014e2ac1af584a20b452a34004988065"
+msgstr "i.e., ones such as ignorance, craving, karma and consciousness."
+
+msgid "c573147da2b94fb4ba0ff58bfb778ffa"
+msgstr ""
+"When these latter phenomena are present, the terms death and birth are "
+"designated."
+
+msgid "cf8da2c5860d40e3a4c5429fa8db6039"
+msgstr "That which is designated death and birth is also empty."
+
+msgid "646b43b6ec9e4d3b94d189b500c850f0"
+msgstr "That which is designated death and birth is also empty."
+
+msgid "1b2c3be2515244bfbb83ff7a730bf0ff"
+msgstr ""
+"It has no coming. It has no going. No one makes it arise. It is not stopped "
+"by anybody."
+
+msgid "7fabb47a82eb4776a0447b59e1112eab"
+msgstr "Sister, all phenomena are inherently stopped."
+
+msgid "1149e9f1cc9b4acfbdf243ba8aa33650"
+msgstr ""
+"Sister, in this way, whoever understands the nature of a drum’s sound well "
+"also understands emptiness well."
+
+msgid "cf183858eab94e5aa40f0f246cf5765d"
+msgstr "Whoever understands emptiness well, understands nirvāṇa well."
+
+msgid "1ed0950ff0124cc79e30852db4beb0d8"
+msgstr "Whoever understands nirvāṇa well"
+
+msgid "88a96e2f6cef49bea0fb908189afe73c"
+msgstr ""
+"has no attachment to any entity, and despite designating conventional things"
+" with all sorts of terms"
+
+msgid "d9389ec004c44f3eab619955be749172"
+msgstr "‘this is mine,’ or ‘that is me,’"
+
+msgid "85d5f347b34d48b69e458d2d24b77bcf"
+msgstr ""
+"or ‘sentient being,’ or ‘life force,’ or ‘living being,’ or ‘man,’ or "
+"‘person,’"
+
+msgid "597f82868006415493f36f370665366c"
+msgstr "or ‘born of Manu,’ or ‘son of Manu,’"
+
+msgid "d2532ce2932842b886e09e0eb74074ac"
+msgstr "or ‘agent,’ or ‘inciter of action,’ or ‘appropriator,’"
+
+msgid "d535721dca464317b65b8a860c1a0e1b"
+msgstr "or ‘discarder’—he teaches Dharma without attachment to these."
+
+msgid "e995a446340a4bda98a9a3e20ebcb7d0"
+msgstr "He teaches Dharma well."
+
+msgid "e7b83af37bce46f7aaa61493e94c09d1"
+msgstr "He teaches the final reality. He teaches the final reality well."
+
+msgid "80e93c5645fb43f9a6cf74589e491e93"
+msgstr ""
+"Sister, it is as follows: an artist or an artist’s apprentice spreads "
+"various paints on a canvas that has been thoroughly cleaned"
+
+msgid "fb8b2b609b8644e99f40e0885370278c"
+msgstr ""
+"or on a flat piece of wood or on the surface of a wall that has been wiped "
+"clean."
+
+msgid "4e462061263342d09a152ce55607617f"
+msgstr "He paints with ease whatever bodily shape he might wish"
+
+msgid "637298fdf1cc46308defa74df4718338"
+msgstr "such as the features of a man’s physical form"
+
+msgid "4e5211cd71d1481e973a611a0ba54d07"
+msgstr "the features of a woman’s physical form"
+
+msgid "a1fcfc046c0c485d8f1127e933ab7661"
+msgstr "the features of an elephant’s physical form"
+
+msgid "f4fafe72ed6e47f19af1beb32e81e0c0"
+msgstr "the features of a horse’s physical form"
+
+msgid "f95a4a6f67044da3baecd9579e3308ae"
+msgstr "or the features of a donkey’s physical form"
+
+msgid "e39dd62a30b648e793afbe587cae1954"
+msgstr "That which is designated form is also empty."
+
+msgid "13cd3fef77e347a1b77131bc39206acf"
+msgstr "Sister, all phenomena are inherently stopped."
+
+msgid "677e43dfbc1e447bbfdac92f41380cd4"
+msgstr "Sister, it is likewise when there are meritorious formative factors."
+
+msgid "146e9274e0cb42c2a18387fe10793907"
+msgstr ""
+"That is to say, although bodies conducive to merit might result amongst gods"
+" and humans,"
+
+msgid "0f595c68dbef4044aa65c0c76799c53f"
+msgstr ""
+"in that case not even an atom is transferred from this world to the world "
+"beyond."
+
+msgid "1db82dd3893447ecb4b4d9b1160da5ac"
+msgstr ""
+"However, due to the formative factors, there are various kinds of rebirths."
+
+msgid "9669dde3e5184dc49fc5d571dbbc5bfc"
+msgstr ""
+"They are represented as physical bodies with their bases of cognition."
+
+msgid "ba1aaab86b534de585f717dcd6a662aa"
+msgstr "It is likewise when there are demeritorious formative factors."
+
+msgid "d7ba36fc4eb2431f8f854a85b5e8cc5d"
+msgstr ""
+"not even an atom is transferred in such a case from this world to the world "
+"beyond."
+
+msgid "1e675059e4724a58b99d3642f5343653"
+msgstr ""
+"However, due to the formative factors there are various kinds of rebirths."
+
+msgid "81950a89489e47559a90a30842c9557a"
+msgstr ""
+"They are understood to be physical forms with their bases of cognition."
+
+msgid "a29a2f7e3507456d92d5718b144556fb"
+msgstr ""
+"Sister, it is as follows: as an analogy, a vast gathering of clouds arises "
+"because of the nāga-power of the nāgas"
+
+msgid "9628b175eca34be1b9a6744e5013b04d"
+msgstr ""
+"and when those huge nets of clouds cover the earth they let fall a heavy "
+"deluge of rain"
+
+msgid "1c5808c3946a47768a77831b8bd97a3a"
+msgstr ""
+"After the heavy deluge of rain has fallen, the hills and the valleys are "
+"quenched."
+
+msgid "b38e8ae029c549f580a8ba88112cae56"
+msgstr "Sister, it is likewise when there are meritorious formative factors"
+
+msgid "5e041d7d70904ed3bf8caebcd5db9fd4"
+msgstr ""
+"that is to say, when meritorious bodies result amongst gods or humans."
+
+msgid "7eb4c66a245a4d05a0e9be899d283c86"
+msgstr ""
+"That is to say, although bodies that are not meritorious result amongst hell"
+" beings, or in the animal state, or in the world of the Lord of Death, or "
+"among the demigods,"
+
+msgid "4eaafeac0ab04ad39a260239ef890f8d"
+msgstr "It is likewise, too, when there are demeritorious formative factors."
+
+msgid "c536c86d9b09444b8b578a5de4727e35"
+msgstr ""
+"When she saw him, faith grew in her mind. Then full of devotion she "
+"approached the Bhagavān,"
+
+msgid "b70544f572b94d16a76e223217b002d8"
+msgstr ""
+"That is to say, although bodies that are not meritorious result amongst "
+"hells beings or in the animal state or the world of the Lord of Death or "
+"among the demigods,"
+
+msgid "457ec4368ef44fc0b00a0bf7946bf66a"
+msgstr ""
+"in such cases the activity of the formative factor is empty, the agent of "
+"the formative factor is empty and the fruits of the formative factor are "
+"also empty."
+
+msgid "25b9ba6bd4254653854bee285ed6d874"
+msgstr "Why is this so?"
+
+msgid "9bf1b999cb7f4ba3af3993959c4f9432"
+msgstr ""
+"and the consciousness which reincarnates amongst the beings of the formless "
+"realms is empty too"
+
+msgid "48676c10a0d64467aeeef5b892c98f89"
+msgstr ""
+"That on account of which the consciousness reincarnates amongst beings of "
+"the formless realms is empty"
+
+msgid "1f1e20ea1d694b34ac4edfe6f3b2d5fd"
+msgstr ""
+"Sister, when there are formative factors for remaining static, consciousness"
+" will reincarnate amongst the beings of the formless realms."
+
+msgid "9c017249f8864c4ba4ed3f868ec95452"
+msgstr "Sister, it is because all phenomena are empty of essence."
+
+msgid "363240fbcf6d44cc9958c828908eb9d9"
+msgstr "Even so phenomena are designated."
+
+msgid "5246b50a3f9640b8a53663622c13b289"
+msgstr "The learned are not attached to them."
+
+msgid "e4adb0b3a8e54a7aac289ebfc3837244"
+msgstr "As they have no attachment they do not dispute."
+
+msgid "474c8fb540e849f183c96a9e7e7b07f0"
+msgstr "Having no disputes is the supreme quality of the religious mendicant."
+
+msgid "e74046de44ca4beb97d11a3a3d636c7f"
+msgstr "The woman said"
+
+msgid "3557f7a4d6ad42c7b2e0b2cb4e755498"
+msgstr ""
+"Since the Bhagavān has taught the profound Dharma in this way, O Bhagavān"
+
+msgid "f9d19ee256b2448eb02457457208561c"
+msgstr "I have no doubts."
+
+msgid "6b547cc59c1b4b4fa64ae6749a23f2bc"
+msgstr ""
+"I, too, have penetrated these teachings with the eye of wisdom and will "
+"never be of two minds about them again."
+
+msgid "0467a14b1eb344adbb19efae0e8cd959"
+msgstr "Now I am old"
+
+msgid "4bac6e1f9eb84c0aa07c40f8b3f15316"
+msgstr ""
+"O Bhagavān, earlier, as I hadn’t yet heard these teachings I did have "
+"doubts."
+
+msgid "066b3ca6ddd14177a55f01573c81210a"
+msgstr "I am decrepit"
+
+msgid "987019c13ec74208961a85b942baf752"
+msgstr "I suffer"
+
+msgid "ffd258959aaf4ba28c5fe234a5689d09"
+msgstr "I am poor"
+
+msgid "3b08c9e81e634b7c9344644b2414646a"
+msgstr "I have no protector"
+
+msgid "09c5db9f80ce4a7fb9dbffa262eb790b"
+msgstr "I have no life and yet I do not die."
+
+msgid "8c86fcdc71d84b1d8764cd666b60ccc1"
+msgstr "O Bhagavān, after hearing these teachings"
+
+msgid "5ce6065603d24f0aa28f4f92ab7507e8"
+msgstr "I am freed from the notion of a self."
+
+msgid "cb5e1da8ac6c487da16a73a29fb6c592"
+msgstr ""
+"I realize that there is no aging, no poverty, no happiness, no sickness, nor"
+" is anyone ever ill, wealthy or poor at all."
+
+msgid "9d7829d9f309495dbf9be5682f9303ff"
+msgstr ""
+"Bhagavān, why have you taught such a profound Dharma discourse as this?"
+
+msgid "47f540f1642040bb8400e63cc27b7394"
+msgstr "Then the Venerable Ānanda inquired of the Bhagavān"
+
+msgid "c99a28e2b1d84e19a7cf967b53b8b62e"
+msgstr ""
+"I wonder whether it is because this woman, who has investigated so well in "
+"this way, is meritorious, learned and naturally wise."
+
+msgid "e7ab77d4132245e2a9ef77a14cee6451"
+msgstr "The Bhagavān replied"
+
+msgid "75914726f0fb4f249e7874cda1a16037"
+msgstr "Ānanda, so it is."
+
+msgid "fe352479838347219a5faff41c08d33f"
+msgstr "Ānanda, it is indeed just as you say."
+
+msgid "055696cf7f8f4233a42a11c140dc05f3"
+msgstr "This woman is meritorious, learned and naturally wise."
+
+msgid "bf13b347731f49169e1546a707f468c7"
+msgstr "Ānanda, this woman was my mother for five hundred lifetimes."
+
+msgid "a9c9188e3538479483040a63d3688dba"
+msgstr ""
+"Ānanda, in each of those lifetimes I also generated the roots of virtue so "
+"she could attain unsurpassable and perfectly complete enlightenment."
+
+msgid "679b9febb5134552875dd69242f9d278"
+msgstr "Ānanda, I cherished, revered and respected this woman greatly."
+
+msgid "ecdc3915f3794e179c27a588d4f0c5e4"
+msgstr "Bhagavān, why is she so poor in this way?"
+
+msgid "dc90cedc7eaf47c28b964dea69fc13b4"
+msgstr "Ānanda inquired"
+
+msgid "fedc5f6cfadd4aa7a36d949670a7dee6"
+msgstr ""
+"She, too, thought, ‘I will engage in whatever conduct my son engages in and "
+"attain the unsurpassable and perfectly complete enlightenment of the vehicle"
+" of happiness."
+
+msgid "690119db28ee4bf3a5db15aadd2d9c05"
+msgstr ""
+"The Bhagavān answered, “Ānanda, when I took up the conduct of a bodhisattva,"
+" I became a renunciate in the doctrine of the Bhagavān, the tathāgata, "
+"arhat, perfectly complete Buddha Krakucchanda."
+
+msgid "9a5a9b4b050b40ca87834ec5678a0726"
+msgstr "At that time, Ānanda, this woman was my mother."
+
+msgid "960f8e3b38f4437c810850f2a04f6080"
+msgstr ""
+"Because of her attachment she did not want to let me go, so I stopped eating"
+" my one meal per day."
+
+msgid "5afdf59c626c4ccdb0af8d73b7725dba"
+msgstr "Later, she agreed to let me go."
+
+msgid "8f2a2f6ce55042ada4b4e09a2c510a1e"
+msgstr ""
+"Ānanda, it is because of the ripening of that karma that she is as poor as "
+"she is."
+
+msgid "df919fd17d0a44319b254abcaba42b23"
+msgstr "Ānanda, this is the last time she will be poor."
+
+msgid "6959e817b16d4dd4bf9a248ff0964ba1"
+msgstr ""
+"Once born there, she will make offerings to an innumerable, immeasurable, "
+"inconceivable number of buddhas"
+
+msgid "7acdcbc0536248d09b044bb155cbc9dc"
+msgstr ""
+"Ānanda, after death, this woman, who no longer craves a woman’s faculties, "
+"will obtain a man’s faculties in the Sukhāvatī buddhafield of the bhagavān, "
+"the perfectly complete buddha Amitābha."
+
+msgid "21da0c3c7173465c833adee2a8984edd"
+msgstr ""
+"guide an innumerable, immeasurable, inconceivable number of sentient beings "
+"to enlightenment"
+
+msgid "d537fd2865ca4807af5943a4cac31726"
+msgstr ""
+"make an innumerable, immeasurable, inconceivable number of sentient beings "
+"ripe for enlightenment"
+
+msgid "cfe7a055d06b4e19a5ff8e6055386253"
+msgstr ""
+"bring an innumerable, immeasurable, inconceivable number of sentient beings "
+"to enlightenment"
+
+msgid "0abd49b96e04407aaa4567920b249399"
+msgstr ""
+"Ānanda, the wealth and enjoyments of sentient beings of this buddha field "
+"will be like those of the gods of the Thirty-Three."
+
+msgid "5102d3f4103f40f684a0247dcde0a615"
+msgstr ""
+"and having brought an innumerable, immeasurable, inconceivable number of "
+"sentient beings to enlightenment, in six million eight hundred thousand "
+"kalpas she will become the Tathāgata, arhat, perfectly complete Buddha named"
+" Bodhyaṅga­puṣpa­kara in this trichiliocosm."
+
+msgid "406a18e4a9b741e992b0288b36e1b8b0"
+msgstr "Ānanda, behold this old lady,"
+
+msgid "e5bd5a6a2a96424cb6a433fbb6c05266"
+msgstr "Before me with palms joined"
+
+msgid "6a1bb82b6fca4cdea4b65fac1575261f"
+msgstr "and having spoken these words"
+
+msgid "b0fccf1f37c241869c6a3f809762e11d"
+msgstr "Thus did the Bhagavān announce"
+
+msgid "22df09d69d7c45518362a7b2919d5e3a"
+msgstr "the Sugata, the Teacher, added the following verses"
+
+msgid "61bb31f041b24526bd902c321f8ee4d6"
+msgstr ""
+"Who will become a buddha, excellent among humans, Named Bodhyaṅga­puṣpa­kara"
+
+msgid "c0ed26f1af014c688b5f15c0d6edeb25"
+msgstr "She, giving up a woman’s form"
+
+msgid "e7cd5972810448afa83cf565747a32cb"
+msgstr "Will go to the realm of Sukhāvatī."
+
+msgid "562d2850526a4a7784f1343454443c9c"
+msgstr "Venerate the victor Amitāyus"
+
+msgid "e4a64a5bbe6e441290b877267fb10607"
+msgstr "And become a peerless buddha, conqueror of the three realms."
+
+msgid "8a6322d40e744938908710f9f44da1ff"
+msgstr "She will become a peerless buddha, excellent among humans."
+
+msgid "17f35823430c4e30a92e17ac90e2d9f8"
+msgstr ""
+"Venerating, too, the many guides Who dwell in other worlds, The great sages "
+"who benefit those realms"
+
+msgid "247d7b1342214362a8cbed1c2ecd114a"
+msgstr "Having also heard the Dharma from them all"
+
+msgid "1fee5edc02044dc9892c91944df8f8ad"
+msgstr ""
+"With a purified mind, she will become accomplished in the same fashion."
+
+msgid "5cb4faf3188d4439a5aaf23d6a8d3c82"
+msgstr "Remaining in the immovable, supreme mind of enlightenment"
+
+msgid "38678280a660440eaf2d00af6336c1c5"
+msgstr "She will cause‌ countless sentient beings to practice the Dharma."
+
+msgid "417cf57496884f41a0a226fdaa6ef278"
+msgstr "At that time there will be no inferior beings"
+
+msgid "5ee40f38db8f4d80b617a8d69b21e342"
+msgstr "No beings with various bad bodies or bad color"
+
+msgid "0867166fc5f04f49bba89b33d001ba32"
+msgstr ""
+"None dull, lame, and likewise none blind, And no lepers with stumps for "
+"arms."
+
+msgid "1979b558683546f28e3523e25f5d5498"
+msgstr ""
+"At that time the sun and moon, fire, lightning, and gems Will no longer be "
+"what shines"
+
+msgid "6b39840e667a4388a793ecefaf9cd9c2"
+msgstr ""
+"For the guide Bodhyaṅga­puṣpa­kara’s mighty light Will everywhere be all-"
+"illuminating."
+
+msgid "b743da2612a349dea3c89479af091f2e"
+msgstr "There will be no women belonging to Māra’s faction"
+
+msgid "b8c9f48a21f047b49443c6313038f6b6"
+msgstr "No female māras, no retinue of Māra."
+
+msgid "d5e18788c8ed4706b6d15f93ba350cac"
+msgstr ""
+"The same stature, marks, and complexion As those of the supreme gods of the "
+"Thirty-Three Will be natural to those beings who at that time Will fill that"
+" exceptional buddhafield."
+
+msgid "46f6c4cc468f4c928ed0895905af8d1d"
+msgstr "When the Tathāgata teaches the Dharma there"
+
+msgid "72e14c7bbedb44ba91453508f9c8934a"
+msgstr "Even the word ‘tīrthika’ will be unknown"
+
+msgid "9ae7c2c13c8349a7b51d90ff311472fc"
+msgstr ""
+"Even the words ‘the lower realms,’ ‘The pretas,’ ‘animal birth,’ ‘the beings"
+" of hell,’ And even the word ‘woman,’ will ever stay unheard."
+
+msgid "b8961244d42f416986d086672dd8d908"
+msgstr "All will be endowed with a complete mind of enlightenment"
+
+msgid "bc26a7d26a91402f8aa3f0a6ec81deb6"
+msgstr ""
+"At that time, there will be no classifications of vehicles, Like the "
+"vehicles of the śrāvakas and the pratyekabuddhas in this world"
+
+msgid "15ca39c2d2bc40d49d01898ca9ade777"
+msgstr ""
+"This completes the Noble Mahāyāna Sūtra, “The Questions of an Old Lady.”"
+
+msgid "aa0787aa5aa048b094bf5eaa1d197c0c"
+msgstr ""
+"The translation was made, edited, and approved by the Indian preceptors "
+"Jinamitra and Dānaśīla and the chief editor and translator Bandé Yeshé Dé."
+
+msgid "332d7e94503542d595068d328433822c"
+msgstr "Dwell in loving-kindness, and be compassionate."
+
+msgid "8d796f59701a4b08beb909fd35dedf46"
+msgstr ""
+"As birth in that buddhafield will always be miraculous, Everyone there will "
+"be free from birth in the womb."
+
+msgid "95c6b13607f0443ba1565a2b2742fe6e"
+msgstr ""
+"They will remember past lives and, supremely intelligent and learned, Retain"
+" on hearing it whatever excellent teachings they study."
+
+msgid "eccc7434f47e400cb6c530e77bf0fc0e"
+msgstr ""
+"Such are the qualities arrayed as features of that realm That, even by "
+"speaking of them for eons at a time, The tiny fraction of them one could "
+"thus describe Would be less than a single drop of water compared to the "
+"ocean."
+
+msgid "ea1fce307afc4a87b8d38da3bd0e311a"
+msgstr "When the Bhagavān had spoken"
+
+msgid "87eb2a78a7ae45f9aa3408a5ba46fb05"
+msgstr "the venerable Ānanda and the old lady"
+
+msgid "9135ee8fa4d346aa9baa99352889f085"
+msgstr "the bodhisattvas and bhikṣus"
+
+msgid "d10a894fd7b748a89c182b64f229b1c3"
+msgstr "the world with its gods, humans, demigods and gandharvas all rejoiced"
+
+msgid "3598bcb95db14f6092aa854140a65d42"
+msgstr "praised highly what the Bhagavān had taught"
+
+msgid "80ef30283fc14323b0abea1eb935fecc"
+msgstr "with complete limbs, parts of limbs and all the sense faculties."
+
+msgid "76f07f06fd9c456fab16805d9fe1cf90"
+msgstr ""
+"Well executed though the painting may be, it does not involve any phenomenon"
+" at all being transferred from the artist’s hand or mind to the physical "
+"form depicted; and yet we designate that form as a result of those "
+"conditions."
+
+msgid "96a1d89c1f0e4e108218b24144760b7b"
+msgstr "When the hills and valleys are quenched, the rain later subsides."
+
+msgid "849ec23e5af5493c8010e597f5c9e8d8"
+msgstr "But these things do not originate from the nāgas’ bodies or minds."
+
+msgid "886e3a60293a4241b031000b14f46ad8"
+msgstr ""
+"The nāgas produced the vast gathering of clouds by virtue of the nāga-powers"
+" of nāgas alone."
