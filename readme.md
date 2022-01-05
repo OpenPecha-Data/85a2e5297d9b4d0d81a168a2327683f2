@@ -4,3 +4,11 @@
 |Type | translation
 |Source Language | bo
 |Target Language | en
+
+Alignment Layer format
+```
+segment-pairs:
+  segment-pair-id:
+    source_pecha_id: segment_id
+    target_pecha_id: segment_id
+```
